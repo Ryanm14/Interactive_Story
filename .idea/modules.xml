@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file:///var/host/media/removable/Linux/btsync/android/InteractiveStory/InteractiveStory.iml" filepath="/var/host/media/removable/Linux/btsync/android/InteractiveStory/InteractiveStory.iml" />
-      <module fileurl="file:///var/host/media/removable/Linux/btsync/android/InteractiveStory/app/app.iml" filepath="/var/host/media/removable/Linux/btsync/android/InteractiveStory/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interactive_Story.iml" filepath="$PROJECT_DIR$/Interactive_Story.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
